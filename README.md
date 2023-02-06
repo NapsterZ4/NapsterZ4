@@ -2,6 +2,7 @@
 <p align="center">
 </p>
 <h4 align="center">I'm Data Science Engineer graduated with honors and Cybersecurity Engineer from LEAD University. I worked on projects related to the artificial intelligence, computer science, machine learning, deep learning, software security, web applications, human-machine interaction for robotics, bussiness algorithms automation and others.</h4>
+<h4>Some projects are in private mode for non disclosure agreement with the company owner.<h4>
 <h2 align="center"><u>Certifications</u></h2>
 <p align="center">
 
